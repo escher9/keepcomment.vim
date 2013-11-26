@@ -8,7 +8,7 @@ simple comment out plugin
       `i    comment line(s) while keep coding
             for trying new code line
             but if you want code line(s) keep intact
-            ( default : same as gk )
+            ( default : same as `k, that is, to the upper )
 
       `k    comment out to the upper
       `j    comment out to the below
