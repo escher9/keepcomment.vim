@@ -2,19 +2,19 @@ keepcomment.vim
 ===============
 
 
-            `u    comment line(s)
-            `o    uncomment line(s)
+      `u    comment line(s)
+      `o    uncomment line(s)
 
-            `i     comment line(s) while keep coding
-                        for trying new code line
-                        but if you want code line(s) keep intact
-                        ( default : same as gk )
+      `i    comment line(s) while keep coding
+            for trying new code line
+            but if you want code line(s) keep intact
+            ( default : same as gk )
 
-            `k    comment out to the upper
-            `j     comment out to the below
+      `k    comment out to the upper
+      `j    comment out to the below
       
-            Visual blocking or numbering(buffer count) in normal mode
-            will work as expected.
+Visual blocking or numbering(buffer count) in normal mode
+will work as expected.
 
 Currently
 for
