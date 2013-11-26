@@ -1,6 +1,6 @@
 keepcomment.vim
 ===============
-
+simple comment out plugin
 
       `u    comment line(s)
       `o    uncomment line(s)
